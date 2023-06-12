@@ -1,0 +1,10 @@
+* hemlock
+
+Portable version of the Hemlock editor.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bluelisp/hemlock.git   |
+| commit  | 47e16ba  |
+| systems | hemlock |
+|---------+-------------------------------------------|
+

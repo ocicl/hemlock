@@ -7,4 +7,4 @@ Portable version of the Hemlock editor.
 | commit  | 47e16ba                                               |
 | systems | spell hemlock.tty hemlock.qt hemlock.clx hemlock.base |
 |---------+-------------------------------------------------------|
- 
+  
